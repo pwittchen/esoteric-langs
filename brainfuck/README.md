@@ -29,3 +29,4 @@ References
 - https://en.wikipedia.org/wiki/Brainfuck
 - http://manpages.ubuntu.com/manpages/trusty/man1/bf.1.html
 - https://github.com/fatiherikli/brainfuck-visualizer/
+- http://stackoverflow.com/questions/16836860/how-does-the-brainfuck-hello-world-actually-work

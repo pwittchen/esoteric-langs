@@ -21,4 +21,11 @@ or even one for which the computational class is unknown.
 References
 ----------
 - https://en.wikipedia.org/wiki/Esoteric_programming_language
+- https://esolangs.org/wiki/Main_Page
 - https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages
+- https://esolangs.org/wiki/Language_list
+- http://tuxradar.com/content/programming-languages-melt-your-brain
+- http://listverse.com/2011/02/17/top-10-truly-bizarre-programming-languages/
+- http://www.dangermouse.net/esoteric/
+- https://www.reddit.com/r/esolangs/
+- http://esoteric.codes/

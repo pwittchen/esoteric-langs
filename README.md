@@ -1,7 +1,9 @@
 # esoteric-langs
-playing around with esoteric programming languages
 
-This repo was created in order to gather some knowledge regarding different [esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language).
+This repo was created in order to gather some knowledge regarding different [esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) and play around with them
+
+Overview
+--------
 
 An esoteric programming language (sometimes shortened to esolang) is a programming language designed to test 
 the boundaries of computer programming language design, as a proof of concept, as software art, 
